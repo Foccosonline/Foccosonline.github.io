@@ -1,0 +1,44 @@
+.header {
+  max-width: 1200px;
+  padding: 40px 20px; /** aumenta o tamanho do header **/
+  margin: 0 auto; /** centraliza os itens na tela e mantem quando expandida**/
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-menu {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+  flex-wrap: wrap; /** Responsivo - quebra a linha quando a tela e diminuida**/
+  justify-content: center; /** Responsivo - quando diminui a tela os botoes do menu ficam centralizados **/
+}
+
+.header-menu a {
+  font-size: 1.125rem;
+  line-height: 1.3rem;
+  text-decoration: none;
+  color: #141414;
+  padding: 10px 20px; /** aumenta a area de click do link**/
+  display: block; /** para pegar corretamente os valores de padding **/
+}
+
+.header-menu a:hover {
+  color: blueviolet;
+}
+
+/** -----------  RESPONSIVO ------------------**/
+
+@media (max-width: 800px) {
+  .header {
+    flex-direction: column; /** muda a orientação do flex para coluna, alterando o menu **/
+    gap: 40px;
+    padding: 20px;
+  }
+
+  .header a {
+    background-color: #f5f5f5;
+    border-radius: 4px;
+  }
+}

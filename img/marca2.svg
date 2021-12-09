@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="53.7203mm" height="25.2377mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3834 1801"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="734" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Azonix">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="C" horiz-adv-x="790"><path d="M389.999 575l350.001 0 0 124.999 -350.001 0c-193,0 -349.998,-156.998 -349.998,-349.998 0,-193 156.998,-350.001 349.998,-350.001l350.001 0 0 124.999 -350.001 0c-124,0 -224.999,101.002 -224.999,225.002 0,123.998 100.999,224.999 224.999,224.999z"/></glyph>
+   <glyph unicode="M" horiz-adv-x="799"><path d="M625 604.001l-224.999 -173.002 -225.002 173.002 -124.999 95.9979 0 -699.999 124.999 0 0 445.999 123.002 -93.9982 102 -79.0012 102 79.0012 122.999 93.9982 0 -445.999 124.999 0 0 699.999 -124.999 -95.9979z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Azonix";src:url("#FontID0") format(svg)}
+    .fil0 {fill:#373435}
+    .fnt0 {font-weight:normal;font-size:2573.27px;font-family:'Azonix'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-129" y="1801"  class="fil0 fnt0">MC</text>
+ </g>
+</svg>
